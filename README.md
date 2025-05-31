@@ -8,7 +8,7 @@
 ---
 
 ## 🖥️ **Professional Summary**  
-Experienced data analyst and full-stack developer student with over a decade of expertise in aerospace supply chain and operations. I specialize in designing performance-optimized dashboards and applications, leveraging CRUD pipelines and dynamic data environments. My experience includes MRP 1 & 2 systems, robust analytics, and the development of interactive applications.
+Experienced data analyst and full-stack developer with over a decade of expertise in aerospace supply chain and operations. I specialize in designing performance-optimized dashboards and applications, leveraging CRUD pipelines and dynamic data environments. My experience includes MRP 1 & 2 systems, robust analytics, and the development of interactive applications.
 
 I am skilled in automating data-driven reporting with tools like SQL, Tableau, Ignition, and Power BI, while continually expanding my technical proficiency in full-stack development. My current focus includes TypeScript, GraphQL, React, MongoDB, Python, and Express.
 
